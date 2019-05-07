@@ -12,8 +12,8 @@ spring:
         enabled: true
       notify:
         mail:
-          to: fangye0405@163.com
-          from: paascloudTest@163.com
+          to: 824244266@qq.com
+          from: fangye0405@163.com
       turbine:
         clusters: default
         location: paascloud-monitor
